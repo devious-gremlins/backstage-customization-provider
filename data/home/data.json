@@ -1,7 +1,7 @@
 [
   {
     "title": "COMMUNITY",
-    "isExpanded": false,
+    "isExpanded": true,
     "links": [
       {
         "iconUrl": "/homepage/icons/icons8/web.png",
@@ -42,7 +42,7 @@
   },
   {
     "title": "DEVELOPER TOOLS",
-    "isExpanded": true,
+    "isExpanded": false,
     "links": [
       {
         "iconUrl": "/homepage/icons/podman_logo.svg",
@@ -79,36 +79,6 @@
       {
         "iconUrl": "/homepage/icons/icons8/openshift.png",
         "label": "OpenShift",
-        "url": ""
-      }
-    ]
-  },
-  {
-    "title": "MONITORING TOOLS",
-    "links": [
-      {
-        "iconUrl": "/homepage/icons/icons8/system-task.png",
-        "label": "Grafana",
-        "url": ""
-      }
-    ]
-  },
-  {
-    "title": "SECURITY TOOLS",
-    "links": [
-      {
-        "iconUrl": "/homepage/icons/icons8/security-checked.png",
-        "label": "GitHub Security",
-        "url": "https://github.com/orgs/janus-idp"
-      },
-      {
-        "iconUrl": "/homepage/icons/keycloak.svg",
-        "label": "Keycloak",
-        "url": ""
-      },
-      {
-        "iconUrl": "/homepage/icons/icons8/safe-out.png",
-        "label": "Vault",
         "url": ""
       }
     ]
